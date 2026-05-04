@@ -2,7 +2,7 @@ Activity 14
 Simple REST API app that can perform CRUD operations, it can be used to store, consult and esit personal notes.
 
 
-![ER Diagram](WebAppsDesign-Activity_14_ER_Diagram.png)
+![ER Diagram](screenshots/WebAppsDesign-Activity_14_ER_Diagram.png)
 
 Postman screenshots for crud actions
 Post note
